@@ -40,4 +40,6 @@ Think of it as a **digital diary**, but instead of living on a central server, i
 **Network:** Celo Sepolia Testnet  
 
 ### 🧩 Contract Code
+<img width="1316" height="826" alt="Screenshot 2025-10-29 143736" src="https://github.com/user-attachments/assets/c8e16b79-7c37-46fb-be31-c08d77f9f4ba" />  
 ![Uploading Screenshot 2025-10-29 143736.png…]()
+
