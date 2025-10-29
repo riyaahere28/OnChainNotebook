@@ -39,9 +39,11 @@ Think of it as a **digital diary**, but instead of living on a central server, i
 **Language:** Solidity `^0.8.17`  
 **Network:** Celo Sepolia Testnet  
 
+contract address:- https://celo-sepolia.blockscout.com/tx/0x2b9191c36f71209aa3954a7fe89abe81053add0aec43c50c47571ac2901bb16e
+
 ### 🧩 Contract Code
 <img width="1316" height="826" alt="Screenshot 2025-10-29 143736" src="https://github.com/user-attachments/assets/c8e16b79-7c37-46fb-be31-c08d77f9f4ba" />  
 ![Uploading Screenshot 2025-10-29 143736.png…]()
 
-https://celo-sepolia.blockscout.com/tx/0x2b9191c36f71209aa3954a7fe89abe81053add0aec43c50c47571ac2901bb16e
+
 
