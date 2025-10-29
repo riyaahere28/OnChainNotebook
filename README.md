@@ -43,3 +43,6 @@ Think of it as a **digital diary**, but instead of living on a central server, i
 <img width="1316" height="826" alt="Screenshot 2025-10-29 143736" src="https://github.com/user-attachments/assets/c8e16b79-7c37-46fb-be31-c08d77f9f4ba" />  
 ![Uploading Screenshot 2025-10-29 143736.png…]()
 
+https://celo-sepolia.blockscout.com/tx/0xb2b926b71a514c79a7cfcd09e2fa6e2ee64ada538c333cf46494b241795c6ba6
+
+
