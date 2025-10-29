@@ -46,4 +46,11 @@ contract address:- https://celo-sepolia.blockscout.com/tx/0x2b9191c36f71209aa395
 ![Uploading Screenshot 2025-10-29 143736.png…]()
 
 
+🔗 Deployed Smart Contract
+
+Contract Address: 0x94b44b7AA762f544De7e56D30Be255294e68D1D7
+
+Block Explorer: View on Blockscout
+
+
 
