@@ -41,16 +41,11 @@ Think of it as a **digital diary**, but instead of living on a central server, i
 
 contract address:- https://celo-sepolia.blockscout.com/tx/0x2b9191c36f71209aa3954a7fe89abe81053add0aec43c50c47571ac2901bb16e
 
-### 🧩 Contract Code
+
 <img width="1316" height="826" alt="Screenshot 2025-10-29 143736" src="https://github.com/user-attachments/assets/c8e16b79-7c37-46fb-be31-c08d77f9f4ba" />  
-![Uploading Screenshot 2025-10-29 143736.png…]()
 
 
-🔗 Deployed Smart Contract
 
-Contract Address: 0x94b44b7AA762f544De7e56D30Be255294e68D1D7
-
-Block Explorer: View on Blockscout
 
 
 
